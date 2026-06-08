@@ -7,7 +7,7 @@ export const Navbar = () => {
     <header class="navbar">
 
       <a href="/" class="logo">
-        <img src="/src/assets/logo.png" alt="Square & Circles Logo">
+       <img src="/logo.png" alt="Square & Circles Logo">
       </a>
 
       <nav class="nav-links">
