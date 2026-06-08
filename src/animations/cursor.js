@@ -1,0 +1,12 @@
+export const initCursorGlow = () => {
+
+  const cursor = document.querySelector('.cursor-glow')
+
+  document.addEventListener('mousemove', (e) => {
+
+    cursor.style.left = e.clientX + 'px'
+    cursor.style.top = e.clientY + 'px'
+
+  })
+
+}
