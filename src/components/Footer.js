@@ -41,12 +41,12 @@ export const Footer = () => {
 
           <h4>Services</h4>
 
-          <a href="#">Digital Marketing</a>
-          <a href="#">Web Development</a>
-          <a href="#">App Development</a>
-          <a href="#">Branding</a>
-          <a href="#">SEO</a>
-          <a href="#">UI/UX Design</a>
+          <a href="/services/digital-marketing">Digital Marketing</a>
+          <a href="/services/web-development">Web Development</a>
+          <a href="/services/app-development">App Development</a>
+          <a href="/services/branding">Branding</a>
+          <a href="/services/seo">SEO</a>
+          <a href="/services/ui-ux-design">UI/UX Design</a>
 
         </div>
 
