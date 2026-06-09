@@ -166,6 +166,10 @@ export const Contact2 = () => {
         </option>
 
         <option>
+          ₹10,000 - ₹25,000
+        </option>
+
+        <option>
           ₹25,000 - ₹50,000
         </option>
 
